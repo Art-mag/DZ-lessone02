@@ -18,7 +18,7 @@ def for_example(message):
     """
     bot.reply_to(message, example)
 
-# Обработчик команды /while
+# Обработчик команды /print
 @bot.message_handler(commands=['while'])
 def while_example(message):
     example = """
