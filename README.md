@@ -12,6 +12,6 @@
  
 вот [ссылка откуда я беру данные](https://pythonworld.ru/)
 
-[ссылка на файлик](README.md)
+[ссылка на файлик](HELP.md)
 
 ![logo](https://masterpiecer-images.s3.yandex.net/7187349d9f2111ee9518c2292fe7483c:upscaled)
